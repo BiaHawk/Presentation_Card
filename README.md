@@ -1,6 +1,7 @@
 # mycard
 
 A new Flutter application.
+This is a presentation card made in flutter.
 
 ## Getting Started
 
